@@ -5,6 +5,7 @@ windows. In the second stage, it refines the proposed candidate windows through 
 than the others, to further refine the result and output facial landmark positions.
 
 The face detection technology that helps locate human face in digital images and video frames. The object detection technology that deals with detecting instances of objects in digital image and videos. The proposed automated recognition system can be divided into four main modules:
+
 1.Data Collector model -  Data is collected in the form of images taken through camera and save them into a file with a unique name.
 
 2.Generate Face Embeddig Model - It will use the stored images and will generate the face embedding using face landmarks.

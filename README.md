@@ -10,10 +10,16 @@ The face detection technology that helps locate human face in digital images and
 2.Generate Face Embeddig Model - It will use the stored images and will generate the face embedding using face landmarks.
 
 3.Train Face Recognition Model - The data collected is trained using this module. In this each image is processed. Training data is labelled.Training pictures are used to inform the computational model whether it’s correct in identifying a face or not.In this,it uses OneHotEncoding(conversion of categorical information to numerical data),LabelEncoder algorithms and also softmax classifier for training.
--
+
 4.Face Predictor Model - This module is used for predicting the faces.The prediction is done by the computer vision library known as OpenCV.If the user’s data is already stored in files then system will detect the person and display his/her name.If the user is unknown then simply it writes unknown. Here,MTCNN algorithm is used to detect the faces in front of the camera.
 
-#Installation
+![WhatsApp Image 2023-03-21 at 9 26 44 AM](https://user-images.githubusercontent.com/96908360/226514774-e6199dc3-d219-4bf4-8a80-279f6222c1ff.jpeg)
+
+![WhatsApp Image 2023-03-21 at 9 24 51 AM (1)](https://user-images.githubusercontent.com/96908360/226514826-929c640f-5930-4a9d-8ca8-b2bee65ede98.jpeg)
+
+
+
+##Installation
 
 Step 1: Install the zip file from the github and extract it.
 

@@ -20,6 +20,7 @@ Step 1: Install the zip file from the github and extract it.
 Step 2: Open the folder in pycharm. 
 
 Step 3: Install requirements.txt to create a new environment by navigating to the file location and copying it path.
+
 '''
 pip install -r requirements.txt
 '''

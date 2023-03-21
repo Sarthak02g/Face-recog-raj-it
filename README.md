@@ -33,7 +33,8 @@ pip install -r requirements.txt
 
 Step 4: Run the app.py in pycharm module to get the GUI applicaion working.
 
-![steos](https://user-images.githubusercontent.com/96908360/226513428-268350a4-c32a-495b-8766-7e18c6ebe902.jpeg
+![steos](https://user-images.githubusercontent.com/96908360/226514939-3de5e340-e5cc-43c1-b9c8-0c259b4a17ca.jpeg)
+
 
 #Research
  MTCNN mainly uses three cascaded networks, and adopts the idea of candidate box plus classifier to perform fast and efficient face recognition. The model is trained on a database of 50 faces we have collected, and Peak Signal-to-Noise Ratio (PSNR), Structural Similarity Index Measurement (SSIM), and receiver operating characteristic (ROC) curve are used to analyse MTCNN, Region-CNN (R-CNN) and Faster R-CNN.
